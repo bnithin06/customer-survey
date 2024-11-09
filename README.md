@@ -1,2 +1,8 @@
-# customer-survey
-A responsive and interactive customer survey form built using React.js. This application allows users to provide feedback through a streamlined and user-friendly interface. It features dynamic form validation and modern UI components to enhance the user experience.
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
